@@ -1,18 +1,18 @@
 Compress
 ========
 
-[![Build Status](https://travis-ci.com/WyriHaximus/php-compress.png)](https://travis-ci.com/WyriHaximus/php-compress)
-[![Latest Stable Version](https://poser.pugx.org/WyriHaximus/compress/v/stable.png)](https://packagist.org/packages/WyriHaximus/compress)
-[![Total Downloads](https://poser.pugx.org/WyriHaximus/compress/downloads.png)](https://packagist.org/packages/WyriHaximus/compress)
-[![Coverage Status](https://coveralls.io/repos/WyriHaximus/php-compress/badge.png)](https://coveralls.io/r/WyriHaximus/php-compress)
-[![License](https://poser.pugx.org/wyrihaximus/compress/license.png)](https://packagist.org/packages/wyrihaximus/compress)
+[![Build Status](https://travis-ci.com/WyriHaximus/php-compress-test-utilities.png)](https://travis-ci.com/WyriHaximus/php-compress-test-utilities)
+[![Latest Stable Version](https://poser.pugx.org/WyriHaximus/compress-test-utilities/v/stable.png)](https://packagist.org/packages/WyriHaximus/compress-test-utilities)
+[![Total Downloads](https://poser.pugx.org/WyriHaximus/compress-test-utilities/downloads.png)](https://packagist.org/packages/WyriHaximus/compress-test-utilities)
+[![Coverage Status](https://coveralls.io/repos/WyriHaximus/php-compress-test-utilities/badge.png)](https://coveralls.io/r/WyriHaximus/php-compress-test-utilities)
+[![License](https://poser.pugx.org/wyrihaximus/compress-test-utilities/license.png)](https://packagist.org/packages/wyrihaximus/compress-test-utilities)
 
 ## Installation ##
 
 To install via [Composer](http://getcomposer.org/), use the command below, it will automatically detect the latest version and bind it with `~`.
 
 ```
-composer require wyrihaximus/compress 
+composer require wyrihaximus/compress-test-utilities 
 ```
 
 ## License ##

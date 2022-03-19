@@ -19,12 +19,12 @@
     },
     "autoload": {
         "psr-4": {
-            "WyriHaximus\\Compress\\": "src/"
+            "WyriHaximus\\Compress\\TestUtilities\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "WyriHaximus\\Compress\\Tests\\": "tests/"
+            "WyriHaximus\\Compress\\TestUtilities\\Tests\\": "tests/"
         }
     },
     "config": {

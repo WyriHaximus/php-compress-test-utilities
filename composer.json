@@ -1,10 +1,10 @@
 {
     "name": "wyrihaximus/compress-test-utilities",
     "description": "Compress test utilities",
+    "license": "MIT",
     "keywords": [
         "compress"
     ],
-    "license": "MIT",
     "authors": [
         {
             "name": "Cees-Jan Kiewiet",
@@ -13,15 +13,9 @@
         }
     ],
     "require": {
-        "php": "^8 || ^7.4",
-        "wyrihaximus/compress-contracts": "^1.0",
-        "wyrihaximus/test-utilities": "^3.3"
-    },
-    "config": {
-        "platform": {
-            "php": "7.4.7"
-        },
-        "sort-packages": true
+        "php": "^8",
+        "wyrihaximus/compress-contracts": "^1",
+        "wyrihaximus/test-utilities": "^5.0.4"
     },
     "autoload": {
         "psr-4": {
@@ -32,6 +26,19 @@
         "psr-4": {
             "WyriHaximus\\Compress\\Tests\\": "tests/"
         }
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/package-versions-deprecated": true,
+            "infection/extension-installer": true,
+            "dealerdirect/phpcodesniffer-composer-installer": true,
+            "icanhazstring/composer-unused": true,
+            "ergebnis/composer-normalize": true
+        },
+        "platform": {
+            "php": "8.0.12"
+        },
+        "sort-packages": true
     },
     "scripts": {
         "post-install-cmd": [

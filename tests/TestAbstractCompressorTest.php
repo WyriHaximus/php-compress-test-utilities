@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace WyriHaximus\Compress\Tests;
+namespace WyriHaximus\Compress\TestUtilities\Tests;
 
-use WyriHaximus\Compress\AbstractCompressorTest;
 use WyriHaximus\Compress\CompressorInterface;
+use WyriHaximus\Compress\TestUtilities\AbstractCompressorTest;
 
 /**
  * @internal

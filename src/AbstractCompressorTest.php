@@ -2,8 +2,9 @@
 
 declare(strict_types=1);
 
-namespace WyriHaximus\Compress;
+namespace WyriHaximus\Compress\TestUtilities;
 
+use WyriHaximus\Compress\CompressorInterface;
 use WyriHaximus\TestUtilities\TestCase;
 
 abstract class AbstractCompressorTest extends TestCase

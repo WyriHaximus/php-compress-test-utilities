@@ -423,16 +423,16 @@
         },
         {
             "name": "composer/ca-bundle",
-            "version": "1.3.1",
+            "version": "1.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/ca-bundle.git",
-                "reference": "4c679186f2aca4ab6a0f1b0b9cf9252decb44d0b"
+                "reference": "fd5dd441932a7e10ca6e5b490e272d34c8430640"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/4c679186f2aca4ab6a0f1b0b9cf9252decb44d0b",
-                "reference": "4c679186f2aca4ab6a0f1b0b9cf9252decb44d0b",
+                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/fd5dd441932a7e10ca6e5b490e272d34c8430640",
+                "reference": "fd5dd441932a7e10ca6e5b490e272d34c8430640",
                 "shasum": ""
             },
             "require": {
@@ -479,7 +479,7 @@
             "support": {
                 "irc": "irc://irc.freenode.org/composer",
                 "issues": "https://github.com/composer/ca-bundle/issues",
-                "source": "https://github.com/composer/ca-bundle/tree/1.3.1"
+                "source": "https://github.com/composer/ca-bundle/tree/1.3.2"
             },
             "funding": [
                 {
@@ -495,7 +495,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-10-28T20:44:15+00:00"
+            "time": "2022-05-24T11:56:16+00:00"
         },
         {
             "name": "composer/composer",
@@ -825,16 +825,16 @@
         },
         {
             "name": "composer/spdx-licenses",
-            "version": "1.5.6",
+            "version": "1.5.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/spdx-licenses.git",
-                "reference": "a30d487169d799745ca7280bc90fdfa693536901"
+                "reference": "c848241796da2abf65837d51dce1fae55a960149"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/spdx-licenses/zipball/a30d487169d799745ca7280bc90fdfa693536901",
-                "reference": "a30d487169d799745ca7280bc90fdfa693536901",
+                "url": "https://api.github.com/repos/composer/spdx-licenses/zipball/c848241796da2abf65837d51dce1fae55a960149",
+                "reference": "c848241796da2abf65837d51dce1fae55a960149",
                 "shasum": ""
             },
             "require": {
@@ -885,7 +885,7 @@
             "support": {
                 "irc": "irc://irc.freenode.org/composer",
                 "issues": "https://github.com/composer/spdx-licenses/issues",
-                "source": "https://github.com/composer/spdx-licenses/tree/1.5.6"
+                "source": "https://github.com/composer/spdx-licenses/tree/1.5.7"
             },
             "funding": [
                 {
@@ -901,7 +901,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-11-18T10:14:14+00:00"
+            "time": "2022-05-23T07:37:50+00:00"
         },
         {
             "name": "composer/xdebug-handler",
@@ -4200,16 +4200,16 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "1.6.8",
+            "version": "1.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "d76498c5531232cb8386ceb6004f7e013138d3ba"
+                "reference": "e3baed2ee2ef322e0f9b8fe8f87fdbe024c7c719"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/d76498c5531232cb8386ceb6004f7e013138d3ba",
-                "reference": "d76498c5531232cb8386ceb6004f7e013138d3ba",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/e3baed2ee2ef322e0f9b8fe8f87fdbe024c7c719",
+                "reference": "e3baed2ee2ef322e0f9b8fe8f87fdbe024c7c719",
                 "shasum": ""
             },
             "require": {
@@ -4235,7 +4235,7 @@
             "description": "PHPStan - PHP Static Analysis Tool",
             "support": {
                 "issues": "https://github.com/phpstan/phpstan/issues",
-                "source": "https://github.com/phpstan/phpstan/tree/1.6.8"
+                "source": "https://github.com/phpstan/phpstan/tree/1.7.1"
             },
             "funding": [
                 {
@@ -4255,7 +4255,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-05-10T06:54:21+00:00"
+            "time": "2022-05-24T09:05:09+00:00"
         },
         {
             "name": "phpstan/phpstan-deprecation-rules",
@@ -8829,16 +8829,16 @@
         },
         {
             "name": "webmozart/glob",
-            "version": "4.5.0",
+            "version": "4.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webmozarts/glob.git",
-                "reference": "287cba1544a235310439d59594dffabb2f8f6c07"
+                "reference": "3c17f7dec3d9d0e87b575026011f2e75a56ed655"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webmozarts/glob/zipball/287cba1544a235310439d59594dffabb2f8f6c07",
-                "reference": "287cba1544a235310439d59594dffabb2f8f6c07",
+                "url": "https://api.github.com/repos/webmozarts/glob/zipball/3c17f7dec3d9d0e87b575026011f2e75a56ed655",
+                "reference": "3c17f7dec3d9d0e87b575026011f2e75a56ed655",
                 "shasum": ""
             },
             "require": {
@@ -8872,9 +8872,9 @@
             "description": "A PHP implementation of Ant's glob.",
             "support": {
                 "issues": "https://github.com/webmozarts/glob/issues",
-                "source": "https://github.com/webmozarts/glob/tree/4.5.0"
+                "source": "https://github.com/webmozarts/glob/tree/4.6.0"
             },
-            "time": "2022-04-05T21:52:25+00:00"
+            "time": "2022-05-24T19:45:58+00:00"
         },
         {
             "name": "webmozart/path-util",
@@ -9018,16 +9018,16 @@
         },
         {
             "name": "wyrihaximus/phpstan-rules-wrapper",
-            "version": "2.3.0",
+            "version": "2.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WyriHaximus/php-phpstan-rules-wrapper.git",
-                "reference": "9fc1928c6434bc89eed03969719ddfc461dea6a5"
+                "reference": "11d6a9f9da3917004f255320a862eedd537eed7b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WyriHaximus/php-phpstan-rules-wrapper/zipball/9fc1928c6434bc89eed03969719ddfc461dea6a5",
-                "reference": "9fc1928c6434bc89eed03969719ddfc461dea6a5",
+                "url": "https://api.github.com/repos/WyriHaximus/php-phpstan-rules-wrapper/zipball/11d6a9f9da3917004f255320a862eedd537eed7b",
+                "reference": "11d6a9f9da3917004f255320a862eedd537eed7b",
                 "shasum": ""
             },
             "require": {
@@ -9056,7 +9056,7 @@
             "description": "🌯 PHPStan rules wrapper",
             "support": {
                 "issues": "https://github.com/WyriHaximus/php-phpstan-rules-wrapper/issues",
-                "source": "https://github.com/WyriHaximus/php-phpstan-rules-wrapper/tree/2.3.0"
+                "source": "https://github.com/WyriHaximus/php-phpstan-rules-wrapper/tree/2.4.0"
             },
             "funding": [
                 {
@@ -9064,20 +9064,20 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-04-27T22:54:22+00:00"
+            "time": "2022-05-05T06:14:19+00:00"
         },
         {
             "name": "wyrihaximus/test-utilities",
-            "version": "5.0.8",
+            "version": "5.0.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WyriHaximus/php-test-utilities.git",
-                "reference": "fbcb1ec7efb1e1cc3f073c0cea3bbb1fc4a16171"
+                "reference": "a75d0ab3629a4d1199a44b8ff3f68886370c5f98"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WyriHaximus/php-test-utilities/zipball/fbcb1ec7efb1e1cc3f073c0cea3bbb1fc4a16171",
-                "reference": "fbcb1ec7efb1e1cc3f073c0cea3bbb1fc4a16171",
+                "url": "https://api.github.com/repos/WyriHaximus/php-test-utilities/zipball/a75d0ab3629a4d1199a44b8ff3f68886370c5f98",
+                "reference": "a75d0ab3629a4d1199a44b8ff3f68886370c5f98",
                 "shasum": ""
             },
             "require": {
@@ -9095,7 +9095,7 @@
                 "php-standard-library/psalm-plugin": "^1.1",
                 "phpspec/prophecy": "^1.15",
                 "phpspec/prophecy-phpunit": "^2.0.1",
-                "phpstan/phpstan": "^1.6.8",
+                "phpstan/phpstan": "^1.7.0",
                 "phpunit/phpunit": "^9.5.19",
                 "psalm/plugin-phpunit": "^0.16.1",
                 "roave/backward-compatibility-check": "^6",
@@ -9145,7 +9145,7 @@
             "description": "🛠️ Test utilities for api-clients packages",
             "support": {
                 "issues": "https://github.com/WyriHaximus/php-test-utilities/issues",
-                "source": "https://github.com/WyriHaximus/php-test-utilities/tree/5.0.8"
+                "source": "https://github.com/WyriHaximus/php-test-utilities/tree/5.0.10"
             },
             "funding": [
                 {
@@ -9153,7 +9153,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-05-14T21:39:21+00:00"
+            "time": "2022-05-24T07:54:41+00:00"
         }
     ],
     "packages-dev": [],

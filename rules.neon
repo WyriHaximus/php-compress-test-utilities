@@ -1,0 +1,8 @@
+parameters:
+	ergebnis:
+		noExtends:
+			classesAllowedToBeExtended:
+				- WyriHaximus\Compress\TestUtilities\AbstractCompressorTest
+
+includes:
+	- ../test-utilities/rules.neon

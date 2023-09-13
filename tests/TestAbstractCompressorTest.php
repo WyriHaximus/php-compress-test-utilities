@@ -7,9 +7,7 @@ namespace WyriHaximus\Compress\TestUtilities\Tests;
 use WyriHaximus\Compress\CompressorInterface;
 use WyriHaximus\Compress\TestUtilities\AbstractCompressorTest;
 
-/**
- * @internal
- */
+/** @internal */
 final class TestAbstractCompressorTest extends AbstractCompressorTest
 {
     protected function getCompressor(): CompressorInterface

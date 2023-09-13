@@ -14,6 +14,7 @@ abstract class AbstractCompressorTest extends TestCase
     final protected function setUp(): void
     {
         parent::setUp();
+
         $this->compressor = $this->getCompressor();
     }
 

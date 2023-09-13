@@ -1,10 +1,10 @@
 Compress
 ========
 
-[![Build Status](https://travis-ci.com/WyriHaximus/php-compress-test-utilities.png)](https://travis-ci.com/WyriHaximus/php-compress-test-utilities)
-[![Latest Stable Version](https://poser.pugx.org/WyriHaximus/compress-test-utilities/v/stable.png)](https://packagist.org/packages/WyriHaximus/compress-test-utilities)
-[![Total Downloads](https://poser.pugx.org/WyriHaximus/compress-test-utilities/downloads.png)](https://packagist.org/packages/WyriHaximus/compress-test-utilities)
-[![Coverage Status](https://coveralls.io/repos/WyriHaximus/php-compress-test-utilities/badge.png)](https://coveralls.io/r/WyriHaximus/php-compress-test-utilities)
+![Continuous Integration](https://github.com/wyrihaximus/php-compress-test-utilities/workflows/Continuous%20Integration/badge.svg)
+[![Latest Stable Version](https://poser.pugx.org/wyrihaximus/compress-test-utilities/v/stable.png)](https://packagist.org/packages/wyrihaximus/compress-test-utilities)
+[![Total Downloads](https://poser.pugx.org/wyrihaximus/compress-test-utilities/downloads.png)](https://packagist.org/packages/wyrihaximus/compress-test-utilities/stats)
+[![Type Coverage](https://shepherd.dev/github/WyriHaximus/php-compress-test-utilities/coverage.svg)](https://shepherd.dev/github/WyriHaximus/php-compress-test-utilities)
 [![License](https://poser.pugx.org/wyrihaximus/compress-test-utilities/license.png)](https://packagist.org/packages/wyrihaximus/compress-test-utilities)
 
 ## Installation ##
@@ -12,12 +12,12 @@ Compress
 To install via [Composer](http://getcomposer.org/), use the command below, it will automatically detect the latest version and bind it with `~`.
 
 ```
-composer require wyrihaximus/compress-test-utilities 
+composer require wyrihaximus/compress-test-utilities
 ```
 
 ## License ##
 
-Copyright 2019 [Cees-Jan Kiewiet](http://wyrihaximus.net/)
+Copyright 2024 [Cees-Jan Kiewiet](http://wyrihaximus.net/)
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation

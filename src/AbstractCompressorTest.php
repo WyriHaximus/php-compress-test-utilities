@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace WyriHaximus\Compress\TestUtilities;
 
+use PHPUnit\Framework\Attributes\Test;
 use WyriHaximus\Compress\CompressorInterface;
 use WyriHaximus\TestUtilities\TestCase;
 
@@ -18,7 +19,8 @@ abstract class AbstractCompressorTest extends TestCase
         $this->compressor = $this->getCompressor();
     }
 
-    final public function testCompress(): void
+    #[Test]
+    final public function compress(): void
     {
         self::assertStringContainsString('foo', $this->compressor->compress('foo'));
     }

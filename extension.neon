@@ -3,6 +3,3 @@ parameters:
 		noExtends:
 			classesAllowedToBeExtended:
 				- WyriHaximus\Compress\TestUtilities\AbstractCompressorTest
-
-includes:
-	- ../test-utilities/rules.neon

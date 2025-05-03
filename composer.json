@@ -13,9 +13,13 @@
         }
     ],
     "require": {
-        "php": "^8.2",
+        "php": "^8.3",
+        "phpunit/phpunit": "^12.1",
         "wyrihaximus/compress-contracts": "^1",
-        "wyrihaximus/test-utilities": "^5.6.0"
+        "wyrihaximus/test-utilities": "^7.0.0"
+    },
+    "require-dev": {
+        "wyrihaximus/makefiles": "^0.3.4"
     },
     "autoload": {
         "psr-4": {
@@ -30,15 +34,24 @@
     "config": {
         "allow-plugins": {
             "composer/package-versions-deprecated": true,
-            "infection/extension-installer": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
+            "ergebnis/composer-normalize": true,
             "icanhazstring/composer-unused": true,
-            "ergebnis/composer-normalize": true
+            "infection/extension-installer": true,
+            "phpstan/extension-installer": true,
+            "wyrihaximus/makefiles": true
         },
         "platform": {
-            "php": "8.2.13"
+            "php": "8.3.13"
         },
         "sort-packages": true
+    },
+    "extra": {
+        "phpstan": {
+            "includes": [
+                "extension.neon"
+            ]
+        }
     },
     "scripts": {
         "post-install-cmd": [

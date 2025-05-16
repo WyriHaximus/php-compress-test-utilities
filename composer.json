@@ -19,7 +19,7 @@
         "wyrihaximus/test-utilities": "^7.0.0"
     },
     "require-dev": {
-        "wyrihaximus/makefiles": "^0.3.4"
+        "wyrihaximus/makefiles": "^0.4.2"
     },
     "autoload": {
         "psr-4": {

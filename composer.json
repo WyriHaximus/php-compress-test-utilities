@@ -14,7 +14,7 @@
   ],
   "require": {
     "php": "^8.4",
-    "phpunit/phpunit": "^12.4.1",
+    "phpunit/phpunit": "^12.4.2",
     "wyrihaximus/compress-contracts": "^1",
     "wyrihaximus/test-utilities": "^8.6.0"
   },

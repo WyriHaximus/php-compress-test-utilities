@@ -16,7 +16,7 @@
     "php": "^8.4",
     "phpunit/phpunit": "^13.1",
     "wyrihaximus/compress-contracts": "^1.0.0",
-    "wyrihaximus/test-utilities": "^13.5.0"
+    "wyrihaximus/test-utilities": "^13.5.1"
   },
   "require-dev": {
     "wyrihaximus/makefiles": "^0.13.3"

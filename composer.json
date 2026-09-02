@@ -16,10 +16,10 @@
     "php": "^8.4",
     "phpunit/phpunit": "^13.1",
     "wyrihaximus/compress-contracts": "^1.0.0",
-    "wyrihaximus/test-utilities": "^14.1.0"
+    "wyrihaximus/test-utilities": "^14.2.0"
   },
   "require-dev": {
-    "wyrihaximus/makefiles": "^0.13.3"
+    "wyrihaximus/makefiles": "^0.14.7"
   },
   "autoload": {
     "psr-4": {
